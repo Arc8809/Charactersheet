@@ -22,7 +22,12 @@ function App() {
       <h1>Character Sheet</h1>
       <div className="card">
        <div className="stats">
+        
+        <div className="stat">   
         <h2>Strength: {Strength}</h2>
+        <h3>Modifier:</h3>
+        </div>
+     
         <h2>Dexterity: {Dexterity}</h2>
         <h2>Constitution: {Constitution}</h2> 
         <h2>Intelligence: {Intelligence}</h2>
