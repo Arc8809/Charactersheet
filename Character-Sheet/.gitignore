@@ -25,8 +25,8 @@ dist-ssr
 
 #base npm install files
 
-package.json
-package-lock.json
-eslint.config.js
-vite.config.js
-README.md
+# package.json
+# package-lock.json
+# eslint.config.js
+# vite.config.js
+# README.md

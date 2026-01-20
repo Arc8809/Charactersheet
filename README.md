@@ -3,7 +3,7 @@ Personal app to make custom character sheets
 
 
 # Environment Set Up
-    npm install node
+    nvm install node
     npm use latest
 
 
